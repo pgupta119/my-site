@@ -43,10 +43,10 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    " I am a enthusiast about  Machine Learning, data and programming. I also do running, playing sports cricket, footballa and badmintion. I strongly believe in team work and inidividual rolex§ "}
+                    ""}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || '“With too little data, you won’t be able to make any conclusions that you trust. With loads of data you will find relationships that aren’t real… Big data isn’t about bits, it’s about talent.'}
+                  {paragraphThree || ''}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
@@ -54,7 +54,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href={'https://drive.google.com/file/d/1LVjrMch9BAja_QtuTW7BVInyMLWdAnwP/view?usp=sharing'}
+                      href={'https://drive.google.com/file/d/1uILvpUdrs8QYYHjwJ458jFQJ4CeUFkWM/view?usp=sharing'}
                     >
                       Resume
                     </a>

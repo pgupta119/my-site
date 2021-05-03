@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'recommend.jpeg',
     title: 'Recommender-System',
-    info: '  The basic recommender-system for user to get movie recommendation',
+    info: '  The basic recommender-system for users to get movies recommendation',
     info2: '',
     url: '',
     repo: 'https://github.com/pgupta119/Recommender-System', // if no repo, the button will not show up
