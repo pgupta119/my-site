@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'churn.png',
     title: ' Churn Problem',
-    info: 'The problem of churn is a problem when a number of individuals move out of a collective group. It is one of the main problems that determine the steady-state level of customers in any type of business.',
+    info: 'The problem of churn is a when a number of individuals move out of a collective group. It is one of the main problems that determine the steady-state level of customers in any type of business.',
     info2: '',
     url: '',
     repo: 'https://github.com/pgupta119/Churn-Problem', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'recommend.jpeg',
     title: 'Recommender-System',
-    info: '  The basic recommender-system for users to get movies recommendation',
+    info: '  The basic recommender-system for users to get movie recommendation',
     info2: '',
     url: '',
     repo: 'https://github.com/pgupta119/Recommender-System', // if no repo, the button will not show up
